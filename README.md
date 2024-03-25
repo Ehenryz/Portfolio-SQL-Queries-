@@ -8,11 +8,11 @@ For my project deliverables I created a Powerpoint presentation for Rockbuster S
 ## Objective
 Use SQL to analyze the data to answer complex business questions with data driven answers for the upcoming online video streaming launch. 
 ### Key Questions:
-Which movies contributed the most/least to revenue gain?
+* Which movies contributed the most/least to revenue gain?
 * What was the average rental duration for all videos?
-● Which countries are Rockbuster customers based in?
-● Where are customers with a high lifetime value based?
-● Do sales figures vary between geographic regions?
+* Which countries are Rockbuster customers based in?
+* Where are customers with a high lifetime value based?
+* Do sales figures vary between geographic regions?
 
 
 
