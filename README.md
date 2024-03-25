@@ -7,9 +7,9 @@ I used SQL to analyze the data and answer ad-hoc business questions from various
 For my project deliverables I created a Powerpoint presentation for Rockbuster Stealth's Management Board, and an Excel report for my technical colleagues. Also, I created a supplemental data dictionary as well. 
 ## Objective
 Use SQL to analyze the data to answer complex business questions with data driven answers for the upcoming online video streaming launch. 
-### Ket Questions:
+### Key Questions:
 Which movies contributed the most/least to revenue gain?
-● What was the average rental duration for all videos?
+* What was the average rental duration for all videos?
 ● Which countries are Rockbuster customers based in?
 ● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
