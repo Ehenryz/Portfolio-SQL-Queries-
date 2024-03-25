@@ -13,6 +13,8 @@ Use SQL to analyze the data to answer complex business questions with data drive
 * Which countries are Rockbuster customers based in?
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
+#Data
+Rockbuster Dataset (_is a mock dataset created by CareerFoundry for use in this project_)
 
 
 
