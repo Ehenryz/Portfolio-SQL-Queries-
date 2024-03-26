@@ -15,6 +15,7 @@ Use SQL to analyze the data to answer complex business questions with data drive
 * Do sales figures vary between geographic regions?
 ## Data
 Rockbuster Dataset (_is a mock dataset created by CareerFoundry for use in this project_)
+* Includes data on customers, films, actors, stores, staff, and locations.
 
 
 
