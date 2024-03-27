@@ -17,7 +17,7 @@ Use SQL to analyze the data to answer complex business questions with data drive
 Rockbuster Dataset (_is a mock dataset created by CareerFoundry for use in this project_)
 * Includes data on customers, films, actors, stores, staff, and locations.
 ## Visualizations
-You may view the Tableau Workbook of visualizations included in the project presentation here, [Tableau Visualizations](https://public.tableau.com/app/profile/erica8659/viz/PresentationVisuals/Achievement3)
+You may view the Tableau Workbook of visualizations included in the project presentation here, [Tableau Visualizations](https://public.tableau.com/app/profile/erica8659/viz/RockbusterStealthLLCVisuals/RockbusterStealthLLCVisuals)
 
 
 
